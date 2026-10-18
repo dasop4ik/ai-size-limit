@@ -2,7 +2,8 @@
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
-
+1. Its a project which specialize on a AI and his functions. like /start, or an ai-size-limit. 
+2. Im make the best readme file by myself for this repository. Read it carefully please:
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
 if the cost exceeds the limit.
